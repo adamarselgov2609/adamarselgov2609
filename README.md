@@ -16,7 +16,8 @@
 ---
 
 ## 📊 **Статистика**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamarselgov2609)
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamarselgov&layout=compact)
+
 
 
 ## 📚 **Чем сейчас занимаюсь**
