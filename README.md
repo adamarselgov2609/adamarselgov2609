@@ -27,8 +27,6 @@
 - ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=adamarselgov2609&theme=github)
 
 
-
-
 ---
 
 ## 📚 **Чем сейчас занимаюсь**
