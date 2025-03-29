@@ -24,7 +24,7 @@
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamarselgov2609&layout=compact)
 - ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adamarselgov2609&show_icons=true&hide_title=true)
 - ![trophy](https://github-profile-trophy.vercel.app/?username=adamarselgov2609)
-- ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=adamarselgov2609&theme=github)
+- ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=adamarselgov2609)
 
 
 ---
